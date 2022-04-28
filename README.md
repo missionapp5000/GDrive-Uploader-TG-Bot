@@ -42,7 +42,7 @@ python3 bot.py
 ```
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cdfxscrq/gdrive-uploader-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/missionapp5000/GDrive-Uploader-TG-Bot?organization=missionapp5000&organization=missionapp5000)
 
 - Note: Bot is in beta stage. Maybe it throw some errors.
 
